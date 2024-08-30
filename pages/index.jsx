@@ -20,7 +20,7 @@ const Home = () => {
             exit="hidden"
             className="h1"
           >
-            Fostering Tech  <br /> {" "}
+            Fostering Growth  <br /> {" "}
             <span className="text-accent">Learn, Evolve, Thrive!</span>
           </motion.h1>
 
