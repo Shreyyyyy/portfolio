@@ -31,7 +31,7 @@ const testimonialData = [
   },
 
   {
-    image: "/surabhi.png",
+    image: "/surabhi.jpg",
     name: "Surabhi Saxena", // Replace with actual client's name
     position: "Christ - Associate Professor", // e.g., "CTO"
     message:
