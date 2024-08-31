@@ -9,31 +9,31 @@ import "swiper/css/pagination";
 
 const testimonialData = [
   {
-    image: "/t-avt-3.png",
+    image: "segar.png",
     name: "Chandrasegar T", // Replace with actual client's name
-    position: "VIT Vellore Professor", // e.g., "Project Manager"
+    position: "VIT Vellore - Associate Professor", // e.g., "Project Manager"
     message:
       "This project was a game-changer for our operations. The innovative approach and attention to detail provided by Shreyans made a significant impact on our productivity and client satisfaction.",
   },
   {
-    image: "/t-avt-2.png",
+    image: "/pafrimala.png",
     name: "Parimala M", // Replace with actual client's name
-    position: "VIT Vellore Professor", // e.g., "CEO"
+    position: "VIT Vellore - Associate Professor", // e.g., "CEO"
     message:
       "The delivery of the project exceeded our expectations. Shreyans's ability to tackle complex problems and deliver practical solutions was outstanding. Highly recommend for any critical projects!",
   },
   {
-    image: "/t-avt-1.png",
+    image: "/neha.png",
     name: "Neha Singhal", // Replace with actual client's name
-    position: "Christ Professor", // e.g., "CTO"
+    position: "Christ - Associate Professor", // e.g., "CTO"
     message:
       "I was impressed with the professionalism and the quality of work that Shreyans provided. The project was delivered on time, within budget, and with excellent results.",
   },
 
   {
-    image: "/t-avt-2.png",
+    image: "/surabhi.png",
     name: "Surabhi Saxena", // Replace with actual client's name
-    position: "Christ Professor", // e.g., "CTO"
+    position: "Christ - Associate Professor", // e.g., "CTO"
     message:
       "He is a very hardworking student, till i saw him, he does his best to submit work on/before time",
   },
