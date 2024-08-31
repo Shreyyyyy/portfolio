@@ -9,7 +9,7 @@ import "swiper/css/pagination";
 
 const testimonialData = [
   {
-    image: "segar.png",
+    image: "/segar.png",
     name: "Chandrasegar T", // Replace with actual client's name
     position: "VIT Vellore - Associate Professor", // e.g., "Project Manager"
     message:
